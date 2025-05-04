@@ -20,7 +20,7 @@
 
 | SR. NO. | ENROLLMENT NO. | NAME OF STUDENT              |
 | ------- | -------------- | ---------------------------- |
-| 1       | 220670107005   | Darji Aryan Dhavalkumar      |
+| 1       | 230673107005   | Darji Aryan Dhavalkumar      |
 | 2       | 230673107014   | Hingu prem Hemal bhai        |
 | 3       | 230673107021   | Parmar Shreykumar Bhagvanji  |
 | 4       | 230673107023   | Patel Dhvanil Jatinbhai      |
